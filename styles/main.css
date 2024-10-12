@@ -243,6 +243,29 @@ aside {
 }
 
 
+/* WELCOME  */
+
+.welcome {
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.welcome__title {
+    font-size: 28px;
+    color: #023131;
+    margin-bottom: 16px;
+}
+
+.welcome__info {
+    font-size: 18px;
+    color: #001C1C;
+    margin-bottom: 12px;
+}
+
+.welcome__text {
+    font-size: 17px;
+    color: #3C5858;
+}
 
 /* FAQ */
 
